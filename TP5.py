@@ -17,9 +17,9 @@
 # decimales que redondee el resultado haciendo uso de la función
 # redondear() del paquete recién creado.
 
-# import Funciones as f
+import Funciones.Funciones as f
 
-# print(f.suma_de_decimales())
+print(f.suma_de_decimales())
 
 # 3. Usando el módulo datetime, escribe un programa que muestre la fecha
 # y hora actuales del sistema.
